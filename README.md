@@ -9,3 +9,4 @@
 데이터 출저 : https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset
 
 
+===> 발표 데이터 곂쳐서 프로젝트 파기됨
